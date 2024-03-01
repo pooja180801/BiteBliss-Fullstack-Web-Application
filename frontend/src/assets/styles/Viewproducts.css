@@ -168,7 +168,7 @@
   .search-results li {
     width: 200px;
     border: 2px solid black;
-    border-radius: 8px;
+    border-radius: 7px;
     padding: 10px;
     display: flex;
     flex-direction: column;
